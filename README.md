@@ -11,7 +11,7 @@ Project work #01
 
 
 ## Описание Проекта
-__Используемые технологии:__ HTML.
+__Используемые технологии:__ HTML, BEM, flexbox, flow, CSS Pseudo-classes, CSS Pseudo-elements, .
 
 ## Локальный запуск
   ```
