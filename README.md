@@ -1,14 +1,9 @@
 # Yandex.Praktikum-Project-1
 
-Github:
-```
-https://github.com/Verakhab/Yandex.Praktikum-Project-1
-```
+Github: https://github.com/Verakhab/Yandex.Praktikum-Project-1
 
-gh-pages:
-```
-https://verakhab.github.io/Yandex.Praktikum-Project-1/
-```
+gh-pages: https://verakhab.github.io/Yandex.Praktikum-Project-1/
+
 Project work #01
 
 Version: v.1.0.0
@@ -24,3 +19,4 @@ __Используемые технологии:__ HTML, BEM, flexbox, positiona
      Склонировать репозиторий
      Запустить с помощью браузера файл index.html
   ```
+  
